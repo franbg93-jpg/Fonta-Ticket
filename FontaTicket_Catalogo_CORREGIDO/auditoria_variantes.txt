@@ -1,0 +1,7 @@
+Productos padre: 70
+Padres con variantes: 24
+Opciones de variante: 157
+Referencias totales: 203
+Referencias únicas: 203
+Duplicadas: {}
+Fotos faltantes: []

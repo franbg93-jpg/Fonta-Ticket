@@ -1,0 +1,6 @@
+import fs from 'node:fs';
+const p=JSON.parse(fs.readFileSync('../FontaTicket_Catalogo_CORREGIDO/productos.json','utf8'));
+const rows=[];
+for(const x of p){const vs=x.variants||[];if(vs.length){for(const v of vs)rows.push({supplier:v.supplier||x.supplier,ref:v.supplierReference||'',url:v.sourceUrl||x.sourceUrl||''});if(x.supplierReference&&Number.isFinite(x.precio))rows.push({supplier:x.supplier,ref:x.supplierReference,url:x.sourceUrl||''});}else rows.push({supplier:x.supplier,ref:x.supplierReference||'',url:x.sourceUrl||''});}
+const direct=(s,u)=>s==='Obramat'?/^https:\/\/(?:www\.)?obramat\.es\/productos\//.test(u):s==='Ferrocano'?/^https:\/\/ferrocanosuministros\.es\/[^/]+\/\d+-[^/]+\.html$/i.test(u):/^https:\/\//.test(u);
+for(const s of ['Obramat','Ferrocano']){const a=rows.filter(x=>x.supplier===s);const directRef=a.filter(x=>x.ref&&direct(s,x.url));const dup=new Set(directRef.map(x=>x.ref).filter((r,i,arr)=>arr.indexOf(r)!==i));console.log(s,JSON.stringify({total:a.length,withRef:a.filter(x=>x.ref).length,withUrl:a.filter(x=>x.url).length,exactRefPlusDirectFiche:directRef.length,uniqueRefDirectFiche:[...new Set(directRef.map(x=>x.ref))].length,refsDuplicated:dup.size,missingRef:a.filter(x=>!x.ref).length,urlsNotDirect:a.filter(x=>x.url&&!direct(s,x.url)).length},null,2));}

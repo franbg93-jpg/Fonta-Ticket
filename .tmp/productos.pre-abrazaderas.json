@@ -1,0 +1,4862 @@
+[
+  {
+    "id": "5d136f0e-3ae8-4a91-84c8-631674851c16",
+    "reference": "50635",
+    "nombre": "GRIFO CISTERNA ALIMENTACION HORIZONTAL 3/8-Ø16",
+    "precio": 17.2,
+    "foto": "imagenes/50635-5d136f0e-3ae8-4a91-84c8-631674851c16-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE ALIMENTACION / GRIFOS COMPACTOS",
+    "size": "3/8-Ø16",
+    "connection": null,
+    "variant": "GRIFO CISTERNA ALIMENTACION HORIZONTAL",
+    "length": null,
+    "manufacturerReference": "T-461",
+    "sourceUrl": "https://www.hidrotecnoagua.com/grifo-cisterna-alimentacion-horizontal/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 17.2,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-461",
+    "supplierReference": "50635",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "db047bcf-1c03-4de3-bb75-1c0588c655dc",
+    "reference": "50634",
+    "nombre": "GRIFO CISTERNA ALIMENTACION VERTICAL 3/8-Ø16",
+    "precio": 18.07,
+    "foto": "imagenes/50634-db047bcf-1c03-4de3-bb75-1c0588c655dc-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE ALIMENTACION / GRIFOS COMPACTOS",
+    "size": "3/8-Ø16",
+    "connection": null,
+    "variant": "GRIFO CISTERNA ALIMENTACION VERTICAL",
+    "length": null,
+    "manufacturerReference": "T-451",
+    "sourceUrl": "https://www.hidrotecnoagua.com/grifo-cisterna-alimentacion-vertical/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 18.07,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-451",
+    "supplierReference": "50634",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "e7a3d9aa-73df-4612-9eba-faec74b8ea67",
+    "reference": "50735",
+    "nombre": "GRIFO CISTERNA BOYA ALIMENTACION HORIZONTAL 3/8-Ø16",
+    "precio": 8.06,
+    "foto": "imagenes/50735-e7a3d9aa-73df-4612-9eba-faec74b8ea67-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE ALIMENTACION / GRIFOS PISTON",
+    "size": "3/8-Ø16",
+    "connection": null,
+    "variant": "GRIFO CISTERNA BOYA ALIMENTACION HORIZONTAL",
+    "length": null,
+    "manufacturerReference": "T-462",
+    "sourceUrl": "https://www.hidrotecnoagua.com/grifo-cisterna-boya-alimentacion-horizontal/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 8.06,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-462",
+    "supplierReference": "50735",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "ff27eaf4-106d-427f-b916-0af5a6d6e484",
+    "reference": "50734",
+    "nombre": "GRIFO CISTERNA BOYA ALIMENTACION VERTICAL 3/8-Ø16",
+    "precio": 11.91,
+    "foto": "imagenes/50734-ff27eaf4-106d-427f-b916-0af5a6d6e484-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE ALIMENTACION / GRIFOS PISTON",
+    "size": "3/8-Ø16",
+    "connection": null,
+    "variant": "GRIFO CISTERNA BOYA ALIMENTACION VERTICAL",
+    "length": null,
+    "manufacturerReference": "T-452",
+    "sourceUrl": "https://www.hidrotecnoagua.com/grifo-cisterna-boya-alimentacion-vertical/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 11.91,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-452",
+    "supplierReference": "50734",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "bef76a00-a36c-4a89-bc23-3e02012f74b8",
+    "reference": "50722",
+    "nombre": "MANGUITO INODORO COMPACTO DUAL EXCENTRICO RECORTABLE Ø90 x Ø110 / D.21+18",
+    "precio": 24.01,
+    "foto": "imagenes/50722-bef76a00-a36c-4a89-bc23-3e02012f74b8-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / RIGIDOS",
+    "size": "Ø90 x Ø110 / D.21+18",
+    "connection": "Ø90 x Ø110 / D.21+18",
+    "variant": "MANGUITO INODORO COMPACTO DUAL EXCENTRICO RECORTABLE",
+    "length": null,
+    "manufacturerReference": "T-122R",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-compacto-dual-excentrico-recortable/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 24.01,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-122R",
+    "supplierReference": "50722",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "variant-50744-50724",
+    "reference": null,
+    "nombre": "MANGUITO INODORO EXTENSIBLE ACODADO",
+    "precio": null,
+    "foto": "imagenes/producto-variant-50744-50724-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-extensible-acodado/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial",
+    "variants": [
+      {
+        "id": null,
+        "reference": "50744",
+        "price": 28.67,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø90-110",
+          "angulo": "45º",
+          "modelo": "T-148"
+        }
+      },
+      {
+        "id": null,
+        "reference": "50724",
+        "price": 28.67,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø90-110",
+          "modelo": "T-138"
+        }
+      }
+    ]
+  },
+  {
+    "id": "346a0290-adc1-49ea-a4a1-3d90886e47c2",
+    "reference": "50701",
+    "nombre": "MANGUITO INODORO EXTENSIBLE MINI Ø90 x Ø90-110 / 180-350",
+    "precio": 25.57,
+    "foto": "imagenes/50701-346a0290-adc1-49ea-a4a1-3d90886e47c2-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø90 x Ø90-110 / 180-350",
+    "connection": "Ø90 x Ø90-110 / 180-350",
+    "variant": "MANGUITO INODORO EXTENSIBLE MINI",
+    "length": null,
+    "manufacturerReference": "T-118M",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-extensible-mini/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 25.57,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-118M",
+    "supplierReference": "50701",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "23d7cf69-8928-4906-aa7a-050f7a156279",
+    "reference": "50702",
+    "nombre": "MANGUITO INODORO EXTENSIBLE Ø90 x Ø90-110 / 230-570",
+    "precio": 27.58,
+    "foto": "imagenes/50702-23d7cf69-8928-4906-aa7a-050f7a156279-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø90 x Ø90-110 / 230-570",
+    "connection": "Ø90 x Ø90-110 / 230-570",
+    "variant": "MANGUITO INODORO EXTENSIBLE",
+    "length": null,
+    "manufacturerReference": "T-118",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-extensible/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 27.58,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-118",
+    "supplierReference": "50702",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "e4041e40-9f74-451c-ab5f-fb0599a85f57",
+    "reference": "50676",
+    "nombre": "MANGUITO INODORO FLEXIBLE CONCENTRICO Ø110",
+    "precio": 7.08,
+    "foto": "imagenes/50676-e4041e40-9f74-451c-ab5f-fb0599a85f57-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø110",
+    "connection": null,
+    "variant": "MANGUITO INODORO FLEXIBLE CONCENTRICO",
+    "length": null,
+    "manufacturerReference": "T-113",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-flexible-concentrico/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 7.08,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-113",
+    "supplierReference": "50676",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "ce6b565e-5b27-4c96-9c1d-2edf7d341dd4",
+    "reference": "50677",
+    "nombre": "MANGUITO INODORO FLEXIBLE EXCENTRICO Ø110 / EX.20",
+    "precio": 7.08,
+    "foto": "imagenes/50677-ce6b565e-5b27-4c96-9c1d-2edf7d341dd4-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø110 / EX.20",
+    "connection": "Ø110 / EX.20",
+    "variant": "MANGUITO INODORO FLEXIBLE EXCENTRICO",
+    "length": null,
+    "manufacturerReference": "T-114",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-flexible-excentrico/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 7.08,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-114",
+    "supplierReference": "50677",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "5dac73fb-621d-4ef8-86f5-359cd3baf704",
+    "reference": "50704",
+    "nombre": "MANGUITO INODORO PP COMPACTO DUAL EXCENTRICO Ø90 x Ø110 / D.210",
+    "precio": 21.59,
+    "foto": "imagenes/50704-5dac73fb-621d-4ef8-86f5-359cd3baf704-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / RIGIDOS",
+    "size": "Ø90 x Ø110 / D.210",
+    "connection": "Ø90 x Ø110 / D.210",
+    "variant": "MANGUITO INODORO PP COMPACTO DUAL EXCENTRICO",
+    "length": null,
+    "manufacturerReference": "T-122",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-pp-compacto-dual-excentrico/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 21.59,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-122",
+    "supplierReference": "50704",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "variant-50610-50613",
+    "reference": null,
+    "nombre": "MANGUITO INODORO PVC CONCENTRICO",
+    "precio": null,
+    "foto": "imagenes/producto-variant-50610-50613-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / RIGIDOS",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-pvc-concentrico/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial",
+    "variants": [
+      {
+        "id": null,
+        "reference": "50610",
+        "price": 6.58,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø90",
+          "modelo": "T-90"
+        }
+      },
+      {
+        "id": null,
+        "reference": "50613",
+        "price": 6.58,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø110",
+          "modelo": "T-110"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-50615-50611",
+    "reference": null,
+    "nombre": "MANGUITO INODORO PVC EXCENTRICO",
+    "precio": null,
+    "foto": "imagenes/producto-variant-50615-50611-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / RIGIDOS",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-pvc-excentrico/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial",
+    "variants": [
+      {
+        "id": null,
+        "reference": "50615",
+        "price": 6.58,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø90 / EX.20",
+          "modelo": "T-90E"
+        }
+      },
+      {
+        "id": null,
+        "reference": "50611",
+        "price": 6.58,
+        "description": null,
+        "photo": null,
+        "attributes": {
+          "medida": "Ø90 x Ø110 / EX.20",
+          "modelo": "T-110E"
+        }
+      }
+    ]
+  },
+  {
+    "id": "d2368358-ce5c-47b8-8adc-13d79c0fff93",
+    "reference": "50705",
+    "nombre": "MANGUITO INODORO PVC EXCENTRICO ACORTABLE Ø90 x Ø90-110 / EX.160-350",
+    "precio": 39.08,
+    "foto": "imagenes/50705-d2368358-ce5c-47b8-8adc-13d79c0fff93-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø90 x Ø90-110 / EX.160-350",
+    "connection": "Ø90 x Ø90-110 / EX.160-350",
+    "variant": "MANGUITO INODORO PVC EXCENTRICO ACORTABLE",
+    "length": null,
+    "manufacturerReference": "T-120",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-pvc-excentrico-acortable/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 39.08,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-120",
+    "supplierReference": "50705",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "3d7c7a68-b1a1-4228-834d-23a8298406b1",
+    "reference": "50706",
+    "nombre": "MANGUITO INODORO PVC SUPER EXCENTRICO ACORTABLE Ø90 x Ø90-110 / EX.160-650",
+    "precio": 49.36,
+    "foto": "imagenes/50706-3d7c7a68-b1a1-4228-834d-23a8298406b1-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MANGUITOS DE INODORO / FLEXIBLES / EXTENSIBLES",
+    "size": "Ø90 x Ø90-110 / EX.160-650",
+    "connection": "Ø90 x Ø90-110 / EX.160-650",
+    "variant": "MANGUITO INODORO PVC SUPER EXCENTRICO ACORTABLE",
+    "length": null,
+    "manufacturerReference": "T-120XL",
+    "sourceUrl": "https://www.hidrotecnoagua.com/manguito-inodoro-pvc-super-excentrico-acortable/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 49.36,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-120XL",
+    "supplierReference": "50706",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "4f7455de-c7f9-493d-8ad4-4b04e2393eef",
+    "reference": "50777",
+    "nombre": "MECANISMO ANTIVANDALICO DOBLE DESCARGA PULSADOR UNIVERSAL",
+    "precio": 29.99,
+    "foto": "imagenes/50777-4f7455de-c7f9-493d-8ad4-4b04e2393eef-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE DESCARGA / DOBLE DESCARGA",
+    "size": "UNIVERSAL",
+    "connection": null,
+    "variant": "MECANISMO ANTIVANDALICO DOBLE DESCARGA PULSADOR",
+    "length": null,
+    "manufacturerReference": "T-285NS+",
+    "sourceUrl": "https://www.hidrotecnoagua.com/mecanismo-antivandalico-doble-descarga/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 29.99,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-285NS+",
+    "supplierReference": "50777",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "28665d56-b3fa-4993-940b-a06abfff0d93",
+    "reference": "70774",
+    "nombre": "MECANISMO DOBLE DESCARGA PULSADOR UNIVERSAL",
+    "precio": 25.92,
+    "foto": "imagenes/70774-28665d56-b3fa-4993-940b-a06abfff0d93-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE DESCARGA / DOBLE DESCARGA",
+    "size": "UNIVERSAL",
+    "connection": null,
+    "variant": "MECANISMO DOBLE DESCARGA PULSADOR",
+    "length": null,
+    "manufacturerReference": "T-282B",
+    "sourceUrl": "https://www.hidrotecnoagua.com/mecanismo-doble-descarga-pulsador-2/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 25.92,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-282B",
+    "supplierReference": "70774",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "c6099399-a5a3-4168-bc6f-7c4da038812f",
+    "reference": "50773",
+    "nombre": "MECANISMO SIMPLE DESCARGA PULSADOR INTERRUMPIBLE UNIVERSAL",
+    "precio": 19.47,
+    "foto": "imagenes/50773-c6099399-a5a3-4168-bc6f-7c4da038812f-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE DESCARGA / SIMPLE DESCARGA",
+    "size": "UNIVERSAL",
+    "connection": null,
+    "variant": "MECANISMO SIMPLE DESCARGA PULSADOR INTERRUMPIBLE",
+    "length": null,
+    "manufacturerReference": "T-281NS+",
+    "sourceUrl": "https://www.hidrotecnoagua.com/mecanismo-simple-descarga-pulsador-interrumpible/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 19.47,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-281NS+",
+    "supplierReference": "50773",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "21946043-91ae-41ff-a5d8-98891ecd06b3",
+    "reference": "50889",
+    "nombre": "MECANISMO SIMPLE DESCARGA TIRADOR (SIN TIRADOR) UNIVERSAL",
+    "precio": 9.67,
+    "foto": "imagenes/50889-21946043-91ae-41ff-a5d8-98891ecd06b3-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE DESCARGA / SIMPLE DESCARGA",
+    "size": "UNIVERSAL",
+    "connection": null,
+    "variant": "MECANISMO SIMPLE DESCARGA TIRADOR (SIN TIRADOR)",
+    "length": null,
+    "manufacturerReference": "T-289SS",
+    "sourceUrl": "https://www.hidrotecnoagua.com/mecanismo-simple-descarga-tirador-sin-tirador/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 9.67,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-289SS",
+    "supplierReference": "50889",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "8a454312-4a6e-43a5-9558-de8d2455b716",
+    "reference": "50875",
+    "nombre": "MECANISMO SIMPLE DESCARGA TIRADOR UNIVERSAL",
+    "precio": 12.83,
+    "foto": "imagenes/50875-8a454312-4a6e-43a5-9558-de8d2455b716-producto.png",
+    "category": "Accesorios WC",
+    "supplier": "Tecnoagua",
+    "family": "Accesorios WC",
+    "type": "MECANISMOS DE DESCARGA / SIMPLE DESCARGA",
+    "size": "UNIVERSAL",
+    "connection": null,
+    "variant": "MECANISMO SIMPLE DESCARGA TIRADOR",
+    "length": null,
+    "manufacturerReference": "T-289S",
+    "sourceUrl": "https://www.hidrotecnoagua.com/mecanismo-simple-descarga-tirador/",
+    "priceDate": "2026-06-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/TARIFA_PVP_TECNOAGUA.xlsx",
+    "sourcePrice": 12.83,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": "T-289S",
+    "supplierReference": "50875",
+    "priceStatus": "PRECIO_VERIFICADO_DIRECTO",
+    "priceMethod": "tarifa_oficial"
+  },
+  {
+    "id": "variant-50357-50355",
+    "reference": null,
+    "nombre": "Pila/Fregadero",
+    "precio": null,
+    "foto": "imagenes/tecno_valvula_cesta_115.jpg",
+    "category": "Válvulas de desagüe",
+    "supplier": "Obramat",
+    "family": "Válvulas de desagüe",
+    "type": "Válvula de fregadero",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "50357",
+        "price": 15.14,
+        "description": "VÁLVULA BAJA CESTA VÁSTAGO/PLÁSTICO",
+        "photo": "imagenes/tecno_valvula_cesta_115.jpg",
+        "attributes": {
+          "medida": "Ø115",
+          "conexion": "1 1/2\" - Ø40",
+          "configuracion": "Sin rebosadero",
+          "marca": "Tecnoagua",
+          "modelo": "T-73BM",
+          "altura": "65 mm",
+          "acabado": "Metálico"
+        }
+      },
+      {
+        "reference": "50355",
+        "price": 17.39,
+        "description": "VÁLVULA BAJA CESTA VÁSTAGO/PLÁSTICO CON REBOSADERO",
+        "photo": "imagenes/tecno_valvula_cesta_115.jpg",
+        "attributes": {
+          "medida": "Ø115",
+          "conexion": "1 1/2\" - Ø40",
+          "configuracion": "Con rebosadero",
+          "marca": "Tecnoagua",
+          "modelo": "T-72BM",
+          "altura": "65 // 350 mm",
+          "acabado": "Metálico"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-52025-52005-52113-52035-52219-52015-52008-52020-52209-52000-52030-52206-52010-52021-52210-52001-52031-52207-52011-52855-52815-52820-52800-52821-52801-51209-51020-51010-51206-51030-51001-51210-51011",
+    "reference": null,
+    "nombre": "Codos",
+    "precio": null,
+    "foto": "imagenes/52025.png",
+    "category": "PVC evacuacion",
+    "supplier": "Tecnoagua",
+    "family": "PVC evacuacion",
+    "type": "Codo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "52025",
+        "price": 3.52,
+        "description": "CODO",
+        "photo": "imagenes/52025.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH45"
+        }
+      },
+      {
+        "reference": "52005",
+        "price": 5.61,
+        "description": "CODO",
+        "photo": "imagenes/52005.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH87"
+        }
+      },
+      {
+        "reference": "52113",
+        "price": 5.96,
+        "description": "CODO",
+        "photo": "imagenes/52113.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "22º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH22"
+        }
+      },
+      {
+        "reference": "52035",
+        "price": 2.34,
+        "description": "CODO",
+        "photo": "imagenes/52035.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH45"
+        }
+      },
+      {
+        "reference": "52219",
+        "price": 3.11,
+        "description": "CODO",
+        "photo": "imagenes/52219.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH67"
+        }
+      },
+      {
+        "reference": "52015",
+        "price": 1.98,
+        "description": "CODO",
+        "photo": "imagenes/52015.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH87"
+        }
+      },
+      {
+        "reference": "52008",
+        "price": 9.12,
+        "description": "CODO H-H 87º 2T Ø110 x Ø40",
+        "photo": "imagenes/52008.png",
+        "attributes": {
+          "medida": "Ø110 x Ø40",
+          "conexion": "Ø110 x Ø40",
+          "configuracion": "CODO H-H 87º 2T",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH87.2T"
+        }
+      },
+      {
+        "reference": "52020",
+        "price": 0.28,
+        "description": "CODO",
+        "photo": "imagenes/52020.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH45"
+        }
+      },
+      {
+        "reference": "52209",
+        "price": 0.83,
+        "description": "CODO",
+        "photo": "imagenes/52209.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "67º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH67"
+        }
+      },
+      {
+        "reference": "52000",
+        "price": 0.36,
+        "description": "CODO",
+        "photo": "imagenes/52000.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH87"
+        }
+      },
+      {
+        "reference": "52030",
+        "price": 0.69,
+        "description": "CODO",
+        "photo": "imagenes/52030.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH45"
+        }
+      },
+      {
+        "reference": "52206",
+        "price": 1.56,
+        "description": "CODO",
+        "photo": "imagenes/52206.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH67"
+        }
+      },
+      {
+        "reference": "52010",
+        "price": 0.72,
+        "description": "CODO",
+        "photo": "imagenes/52010.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH87"
+        }
+      },
+      {
+        "reference": "52021",
+        "price": 0.4,
+        "description": "CODO",
+        "photo": "imagenes/52021.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH45"
+        }
+      },
+      {
+        "reference": "52210",
+        "price": 0.89,
+        "description": "CODO",
+        "photo": "imagenes/52210.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "67º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH67"
+        }
+      },
+      {
+        "reference": "52001",
+        "price": 0.36,
+        "description": "CODO",
+        "photo": "imagenes/52001.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH87"
+        }
+      },
+      {
+        "reference": "52031",
+        "price": 0.61,
+        "description": "CODO",
+        "photo": "imagenes/52031.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH45"
+        }
+      },
+      {
+        "reference": "52207",
+        "price": 2.27,
+        "description": "CODO",
+        "photo": "imagenes/52207.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH67"
+        }
+      },
+      {
+        "reference": "52011",
+        "price": 0.69,
+        "description": "CODO",
+        "photo": "imagenes/52011.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH87"
+        }
+      },
+      {
+        "reference": "52855",
+        "price": 4.68,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52855.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CMH45"
+        }
+      },
+      {
+        "reference": "52815",
+        "price": 3.95,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52815.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CMH87"
+        }
+      },
+      {
+        "reference": "52820",
+        "price": 0.56,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52820.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CHH45"
+        }
+      },
+      {
+        "reference": "52800",
+        "price": 0.73,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52800.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CHH87"
+        }
+      },
+      {
+        "reference": "52821",
+        "price": 0.79,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52821.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CHH45"
+        }
+      },
+      {
+        "reference": "52801",
+        "price": 0.73,
+        "description": "CODO BLANCO",
+        "photo": "imagenes/52801.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-CHH87"
+        }
+      },
+      {
+        "reference": "51209",
+        "price": 0.87,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p124_67.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH67"
+        }
+      },
+      {
+        "reference": "51020",
+        "price": 0.59,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p123_45.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH45"
+        }
+      },
+      {
+        "reference": "51010",
+        "price": 0.75,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p123_87.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH87"
+        }
+      },
+      {
+        "reference": "51206",
+        "price": 1.64,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p123_67.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH67"
+        }
+      },
+      {
+        "reference": "51030",
+        "price": 0.72,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p123_45.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH45"
+        }
+      },
+      {
+        "reference": "51001",
+        "price": 0.38,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p124_87.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH87"
+        }
+      },
+      {
+        "reference": "51210",
+        "price": 0.94,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p124_67.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CHH67"
+        }
+      },
+      {
+        "reference": "51011",
+        "price": 0.72,
+        "description": "CODO",
+        "photo": "imagenes/tecno_p123_87.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CMH87"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-52055-52073-52045-52216-52236-52065-52250-52050-52228-52070-52440-52243-52060-52051-52204-52229-52071-52041-52257-52241-52061-52845-52865-52850-52880-52851-52881-51050-52510-52710-52595-51070-51060",
+    "reference": null,
+    "nombre": "Derivaciones",
+    "precio": null,
+    "foto": "imagenes/52055.png",
+    "category": "PVC evacuacion",
+    "supplier": "Tecnoagua",
+    "family": "PVC evacuacion",
+    "type": "Derivación",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "52055",
+        "price": 15.67,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52055.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH45"
+        }
+      },
+      {
+        "reference": "52073",
+        "price": 6.92,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52073.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH87"
+        }
+      },
+      {
+        "reference": "52045",
+        "price": 4.42,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52045.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH45"
+        }
+      },
+      {
+        "reference": "52216",
+        "price": 12.28,
+        "description": "DERIVACIÓN DOBLE",
+        "photo": "imagenes/52216.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDPMH45"
+        }
+      },
+      {
+        "reference": "52236",
+        "price": 6.73,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52236.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH67"
+        }
+      },
+      {
+        "reference": "52065",
+        "price": 3.39,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52065.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH87"
+        }
+      },
+      {
+        "reference": "52250",
+        "price": 9.29,
+        "description": "DERIVACIÓN DOBLE",
+        "photo": "imagenes/52250.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDMH87"
+        }
+      },
+      {
+        "reference": "52050",
+        "price": 0.83,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52050.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH45"
+        }
+      },
+      {
+        "reference": "52228",
+        "price": 1.29,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52228.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "67º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH67"
+        }
+      },
+      {
+        "reference": "52070",
+        "price": 0.64,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52070.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH87"
+        }
+      },
+      {
+        "reference": "52440",
+        "price": 1.49,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52440.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH45"
+        }
+      },
+      {
+        "reference": "52243",
+        "price": 1.05,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52243.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH67"
+        }
+      },
+      {
+        "reference": "52060",
+        "price": 0.89,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52060.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH87"
+        }
+      },
+      {
+        "reference": "52051",
+        "price": 0.72,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52051.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH45"
+        }
+      },
+      {
+        "reference": "52204",
+        "price": 3.99,
+        "description": "DERIVACIÓN DOBLE",
+        "photo": "imagenes/52204.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDHH45"
+        }
+      },
+      {
+        "reference": "52229",
+        "price": 1.23,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52229.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "67º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH67"
+        }
+      },
+      {
+        "reference": "52071",
+        "price": 0.8,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52071.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH87"
+        }
+      },
+      {
+        "reference": "52041",
+        "price": 1.68,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52041.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH45"
+        }
+      },
+      {
+        "reference": "52257",
+        "price": 6.01,
+        "description": "DERIVACIÓN DOBLE",
+        "photo": "imagenes/52257.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDPMH45"
+        }
+      },
+      {
+        "reference": "52241",
+        "price": 1.68,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52241.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "67º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH67"
+        }
+      },
+      {
+        "reference": "52061",
+        "price": 1.54,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/52061.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH87"
+        }
+      },
+      {
+        "reference": "52845",
+        "price": 8.84,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52845.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "45º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DMH45"
+        }
+      },
+      {
+        "reference": "52865",
+        "price": 6.78,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52865.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "87º / M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DMH87"
+        }
+      },
+      {
+        "reference": "52850",
+        "price": 1.66,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52850.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DHH45"
+        }
+      },
+      {
+        "reference": "52880",
+        "price": 1.29,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52880.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DHH87"
+        }
+      },
+      {
+        "reference": "52851",
+        "price": 1.44,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52851.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DHH45"
+        }
+      },
+      {
+        "reference": "52881",
+        "price": 1.6,
+        "description": "DERIVACIÓN BLANCO",
+        "photo": "imagenes/52881.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "87º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-DHH87"
+        }
+      },
+      {
+        "reference": "51050",
+        "price": 1.0,
+        "description": "DERIVACIÓN H-H 45º Ø32",
+        "photo": "imagenes/tecno_p126_45.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "configuracion": "DERIVACIÓN H-H 45º",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH45"
+        }
+      },
+      {
+        "reference": "52510",
+        "price": 60.7,
+        "description": "DERIVACIÓN DOBLE ESCUADRA M-H",
+        "photo": "imagenes/tecno_p127_double4.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "P1",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDEMH45"
+        }
+      },
+      {
+        "reference": "52710",
+        "price": 55.1,
+        "description": "DERIVACIÓN DOBLE ESCUADRA M-H",
+        "photo": "imagenes/52710.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "P2",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDEMH87"
+        }
+      },
+      {
+        "reference": "52595",
+        "price": 87.85,
+        "description": "DERIVACIÓN DOBLE ESCUADRA M-H",
+        "photo": "imagenes/tecno_p127_double4.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "M-H",
+          "configuracion": "P2",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DDEMH67"
+        }
+      },
+      {
+        "reference": "51070",
+        "price": 0.78,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/tecno_p126_87.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DHH87"
+        }
+      },
+      {
+        "reference": "51060",
+        "price": 0.94,
+        "description": "DERIVACIÓN",
+        "photo": "imagenes/tecno_p125_87.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "M-H",
+          "configuracion": "P4",
+          "marca": "Tecnoagua",
+          "modelo": "EG-DMH87"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-52137-52132-52133-52837-52832-52833",
+    "reference": null,
+    "nombre": "Manguitos / reparadores",
+    "precio": null,
+    "foto": "imagenes/52137.png",
+    "category": "PVC evacuacion",
+    "supplier": "Tecnoagua",
+    "family": "PVC evacuacion",
+    "type": "Manguito",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "52137",
+        "price": 1.8,
+        "description": "MANGUITO H-H",
+        "photo": "imagenes/52137.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-MHH"
+        }
+      },
+      {
+        "reference": "52132",
+        "price": 0.44,
+        "description": "MANGUITO H-H",
+        "photo": "imagenes/52132.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-MHH"
+        }
+      },
+      {
+        "reference": "52133",
+        "price": 0.58,
+        "description": "MANGUITO H-H",
+        "photo": "imagenes/52133.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-MHH"
+        }
+      },
+      {
+        "reference": "52837",
+        "price": 3.6,
+        "description": "MANGUITO H-H BLANCO",
+        "photo": "imagenes/52837.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-MHH"
+        }
+      },
+      {
+        "reference": "52832",
+        "price": 0.87,
+        "description": "MANGUITO H-H BLANCO",
+        "photo": "imagenes/52832.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-MHH"
+        }
+      },
+      {
+        "reference": "52833",
+        "price": 1.16,
+        "description": "MANGUITO H-H BLANCO",
+        "photo": "imagenes/52833.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "EB-MHH"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-52156-52278-52357-52356-52354-52151-52152-50622-52115",
+    "reference": null,
+    "nombre": "Tapones / reducciones / enlaces",
+    "precio": null,
+    "foto": "imagenes/52156.png",
+    "category": "PVC evacuacion",
+    "supplier": "Tecnoagua",
+    "family": "PVC evacuacion",
+    "type": "Tapones",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "52156",
+        "price": 0.9,
+        "description": "TAPÓN MACHO",
+        "photo": "imagenes/52156.png",
+        "attributes": {
+          "medida": "Ø110",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TM"
+        }
+      },
+      {
+        "reference": "52278",
+        "price": 2.54,
+        "description": "TAPÓN MACHO REDUCIDO 3T",
+        "photo": "imagenes/tecno_p130_reducer.jpg",
+        "attributes": {
+          "medida": "Ø110 x Ø40",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TMR.1T"
+        }
+      },
+      {
+        "reference": "52357",
+        "price": 2.6,
+        "description": "TAPÓN MACHO REDUCIDO 3T",
+        "photo": "imagenes/tecno_p129_2t.jpg",
+        "attributes": {
+          "medida": "Ø110 x Ø40-32",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TRMH"
+        }
+      },
+      {
+        "reference": "52356",
+        "price": 2.61,
+        "description": "TAPÓN MACHO REDUCIDO 3T",
+        "photo": "imagenes/tecno_p129_2t.jpg",
+        "attributes": {
+          "medida": "Ø110 x Ø40-40",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TRMH"
+        }
+      },
+      {
+        "reference": "52354",
+        "price": 2.52,
+        "description": "TAPÓN MACHO REDUCIDO 3T",
+        "photo": "imagenes/tecno_p129_3t.jpg",
+        "attributes": {
+          "medida": "Ø110 x Ø40-40-40",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TRMH"
+        }
+      },
+      {
+        "reference": "52151",
+        "price": 0.5,
+        "description": "TAPÓN MACHO",
+        "photo": "imagenes/52151.png",
+        "attributes": {
+          "medida": "Ø32",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TM"
+        }
+      },
+      {
+        "reference": "52152",
+        "price": 0.67,
+        "description": "TAPÓN MACHO",
+        "photo": "imagenes/52152.png",
+        "attributes": {
+          "medida": "Ø40",
+          "marca": "Tecnoagua",
+          "modelo": "EG-TM"
+        }
+      },
+      {
+        "reference": "50622",
+        "price": 0.62,
+        "description": "CASQUILLO REDUCTOR Ø40 x Ø32",
+        "photo": "imagenes/50622.png",
+        "attributes": {
+          "medida": "Ø40 x Ø32",
+          "conexion": "Ø40 x Ø32",
+          "configuracion": "CASQUILLO REDUCTOR",
+          "marca": "Tecnoagua",
+          "modelo": "EG-CR"
+        }
+      },
+      {
+        "reference": "52115",
+        "price": 0.79,
+        "description": "REDUCCIÓN EXCÉNTRICA M-H Ø40 x Ø32",
+        "photo": "imagenes/52115.png",
+        "attributes": {
+          "medida": "Ø40 x Ø32",
+          "conexion": "Ø40 x Ø32",
+          "configuracion": "REDUCCIÓN EXCÉNTRICA M-H",
+          "marca": "Tecnoagua",
+          "modelo": "EG-REMH"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-90691-90091-90191-90632-90032-90132-90640-90040-90140",
+    "reference": null,
+    "nombre": "Codos",
+    "precio": null,
+    "foto": "imagenes/tecno_p140_hh45.jpg",
+    "category": "PVC presion",
+    "supplier": "Tecnoagua",
+    "family": "PVC presion",
+    "type": "Codo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "90691",
+        "price": 12.67,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh45.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH45"
+        }
+      },
+      {
+        "reference": "90091",
+        "price": 13.68,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh90.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH90"
+        }
+      },
+      {
+        "reference": "90191",
+        "price": 41.05,
+        "description": "CODO PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p140_rh90.jpg",
+        "attributes": {
+          "medida": "Ø110 x 4\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPRH90"
+        }
+      },
+      {
+        "reference": "90632",
+        "price": 0.92,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh90.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH45"
+        }
+      },
+      {
+        "reference": "90032",
+        "price": 0.76,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh90.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH90"
+        }
+      },
+      {
+        "reference": "90132",
+        "price": 1.22,
+        "description": "CODO PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p140_rh90.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPRH90"
+        }
+      },
+      {
+        "reference": "90640",
+        "price": 1.12,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh90.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "45º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH45"
+        }
+      },
+      {
+        "reference": "90040",
+        "price": 1.08,
+        "description": "CODO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p140_hh90.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPHH90"
+        }
+      },
+      {
+        "reference": "90140",
+        "price": 1.85,
+        "description": "CODO PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p140_rh90.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-CPRH90"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-91591-90991-91091-91532-90932-91032-91540-90940-91040",
+    "reference": null,
+    "nombre": "Derivaciones",
+    "precio": null,
+    "foto": "imagenes/91591.png",
+    "category": "PVC presion",
+    "supplier": "Tecnoagua",
+    "family": "PVC presion",
+    "type": "Derivación",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "91591",
+        "price": 35.5,
+        "description": "DERIVACIÓN DOBLE PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/91591.png",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DDPHH90"
+        }
+      },
+      {
+        "reference": "90991",
+        "price": 16.73,
+        "description": "DERIVACIÓN PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/tecno_p141_hh90.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPHH90"
+        }
+      },
+      {
+        "reference": "91091",
+        "price": 46.84,
+        "description": "DERIVACIÓN PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p141_rh90.jpg",
+        "attributes": {
+          "medida": "Ø110 x 4\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPRH90"
+        }
+      },
+      {
+        "reference": "91532",
+        "price": 5.17,
+        "description": "DERIVACIÓN DOBLE PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/91532.png",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DDPHH90"
+        }
+      },
+      {
+        "reference": "90932",
+        "price": 1.0,
+        "description": "DERIVACIÓN PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/tecno_p141_hh90.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPHH90"
+        }
+      },
+      {
+        "reference": "91032",
+        "price": 1.53,
+        "description": "DERIVACIÓN PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p141_rh90.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPRH90"
+        }
+      },
+      {
+        "reference": "91540",
+        "price": 6.18,
+        "description": "DERIVACIÓN DOBLE PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/91540.png",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DDPHH90"
+        }
+      },
+      {
+        "reference": "90940",
+        "price": 1.49,
+        "description": "DERIVACIÓN PVC PRESIÓN H-H 90º",
+        "photo": "imagenes/tecno_p141_hh90.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "90º / H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPHH90"
+        }
+      },
+      {
+        "reference": "91040",
+        "price": 2.65,
+        "description": "DERIVACIÓN PVC PRESIÓN RH 90º",
+        "photo": "imagenes/tecno_p141_rh90.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "configuracion": "90º",
+          "marca": "Tecnoagua",
+          "modelo": "P-DPRH90"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-91691-91791-92391-91632-91732-92332-91640-91740-92340",
+    "reference": null,
+    "nombre": "Manguitos / reparadores",
+    "precio": null,
+    "foto": "imagenes/tecno_p142_hh.jpg",
+    "category": "PVC presion",
+    "supplier": "Tecnoagua",
+    "family": "PVC presion",
+    "type": "Manguito",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "91691",
+        "price": 7.79,
+        "description": "MANGUITO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p142_hh.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPHH"
+        }
+      },
+      {
+        "reference": "91791",
+        "price": 18.81,
+        "description": "MANGUITO PVC PRESIÓN RH",
+        "photo": "imagenes/tecno_p142_rh.jpg",
+        "attributes": {
+          "medida": "Ø110 x 4\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRH"
+        }
+      },
+      {
+        "reference": "92391",
+        "price": 12.26,
+        "description": "MANGUITO PVC PRESIÓN RM",
+        "photo": "imagenes/tecno_p142_rm.jpg",
+        "attributes": {
+          "medida": "Ø110 x 4\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRM"
+        }
+      },
+      {
+        "reference": "91632",
+        "price": 0.62,
+        "description": "MANGUITO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p142_hh.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPHH"
+        }
+      },
+      {
+        "reference": "91732",
+        "price": 0.94,
+        "description": "MANGUITO PVC PRESIÓN RH",
+        "photo": "imagenes/tecno_p142_rh.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRH"
+        }
+      },
+      {
+        "reference": "92332",
+        "price": 0.67,
+        "description": "MANGUITO PVC PRESIÓN RM",
+        "photo": "imagenes/tecno_p142_rm.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRM"
+        }
+      },
+      {
+        "reference": "91640",
+        "price": 0.82,
+        "description": "MANGUITO PVC PRESIÓN H-H",
+        "photo": "imagenes/tecno_p142_hh.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "conexion": "H-H",
+          "configuracion": "H-H",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPHH"
+        }
+      },
+      {
+        "reference": "91740",
+        "price": 1.11,
+        "description": "MANGUITO PVC PRESIÓN RH",
+        "photo": "imagenes/tecno_p142_rh.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRH"
+        }
+      },
+      {
+        "reference": "92340",
+        "price": 0.99,
+        "description": "MANGUITO PVC PRESIÓN RM",
+        "photo": "imagenes/tecno_p142_rm.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-MPRM"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-93141-95291-93591-95391-95232-93532-95332-95532-95240-93540-95340-95540",
+    "reference": null,
+    "nombre": "Tapones / reducciones / enlaces",
+    "precio": null,
+    "foto": "imagenes/tecno_p143_reducer.jpg",
+    "category": "PVC presion",
+    "supplier": "Tecnoagua",
+    "family": "PVC presion",
+    "type": "Tapones",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "Tecnoagua",
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "93141",
+        "price": 0.53,
+        "description": "CASQUILLO REDUCTOR PVC PRESIÓN Ø40 x Ø32",
+        "photo": "imagenes/tecno_p143_reducer.jpg",
+        "attributes": {
+          "medida": "Ø40 x Ø32",
+          "conexion": "Ø40 x Ø32",
+          "configuracion": "CASQUILLO REDUCTOR PVC PRESIÓN",
+          "marca": "Tecnoagua",
+          "modelo": "P-CRP"
+        }
+      },
+      {
+        "reference": "95291",
+        "price": 40.6,
+        "description": "ENLACE 3PCS PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_hh.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PP"
+        }
+      },
+      {
+        "reference": "93591",
+        "price": 11.03,
+        "description": "TAPÓN LISO PVC PRESIÓN",
+        "photo": "imagenes/tecno_p143_cap.jpg",
+        "attributes": {
+          "medida": "Ø110",
+          "marca": "Tecnoagua",
+          "modelo": "P-TLP"
+        }
+      },
+      {
+        "reference": "95391",
+        "price": 43.36,
+        "description": "ENLACE 3PCS RH PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_rh.jpg",
+        "attributes": {
+          "medida": "Ø110 x 4\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3RHPP"
+        }
+      },
+      {
+        "reference": "95232",
+        "price": 2.25,
+        "description": "ENLACE 3PCS PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_hh.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PP"
+        }
+      },
+      {
+        "reference": "93532",
+        "price": 0.51,
+        "description": "TAPÓN LISO PVC PRESIÓN",
+        "photo": "imagenes/tecno_p143_cap.jpg",
+        "attributes": {
+          "medida": "Ø32",
+          "marca": "Tecnoagua",
+          "modelo": "P-TLP"
+        }
+      },
+      {
+        "reference": "95332",
+        "price": 5.98,
+        "description": "ENLACE 3PCS RH PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_rh.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PRHP"
+        }
+      },
+      {
+        "reference": "95532",
+        "price": 5.27,
+        "description": "ENLACE 3PCS RM PVC PRESION",
+        "photo": "imagenes/tecno_p144_union_rm.jpg",
+        "attributes": {
+          "medida": "Ø32 x 1\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PRMP"
+        }
+      },
+      {
+        "reference": "95240",
+        "price": 2.85,
+        "description": "ENLACE 3PCS PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_hh.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PP"
+        }
+      },
+      {
+        "reference": "93540",
+        "price": 0.93,
+        "description": "TAPÓN LISO PVC PRESIÓN",
+        "photo": "imagenes/tecno_p143_cap.jpg",
+        "attributes": {
+          "medida": "Ø40",
+          "marca": "Tecnoagua",
+          "modelo": "P-TLP"
+        }
+      },
+      {
+        "reference": "95340",
+        "price": 6.8,
+        "description": "ENLACE 3PCS RH PVC PRESIÓN",
+        "photo": "imagenes/tecno_p144_union_rh.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PRHP"
+        }
+      },
+      {
+        "reference": "95540",
+        "price": 5.97,
+        "description": "ENLACE 3PCS RM PVC PRESION",
+        "photo": "imagenes/tecno_p144_union_rm.jpg",
+        "attributes": {
+          "medida": "Ø40 x 1¼\"",
+          "marca": "Tecnoagua",
+          "modelo": "P-E3PRMP"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-10466134",
+    "reference": null,
+    "nombre": "Codo placa/fijación",
+    "precio": null,
+    "foto": "",
+    "category": "Multicapa",
+    "supplier": "Obramat",
+    "family": "Multicapa",
+    "type": "Codo placa/fijación",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "10466134",
+        "price": 5.4,
+        "description": "Codo placa multicapa 25 x 3/4 hembra",
+        "photo": "",
+        "attributes": {
+          "medida": "25 mm",
+          "conexion": "3/4\" H"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-25025768-10269322-10269336",
+    "reference": null,
+    "nombre": "Manguito",
+    "precio": null,
+    "foto": "",
+    "category": "Multicapa",
+    "supplier": "Obramat",
+    "family": "Multicapa",
+    "type": "Manguito",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "25025768",
+        "price": 1.64,
+        "description": "Manguito multicapa 16 mm",
+        "photo": "",
+        "attributes": {
+          "medida": "16 mm"
+        }
+      },
+      {
+        "reference": "10269322",
+        "price": 1.74,
+        "description": "Manguito multicapa 20 mm",
+        "photo": "",
+        "attributes": {
+          "medida": "20 mm"
+        }
+      },
+      {
+        "reference": "10269336",
+        "price": 3.06,
+        "description": "Manguito multicapa 25 mm",
+        "photo": "",
+        "attributes": {
+          "medida": "25 mm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-25025723-10285300-10285303",
+    "reference": null,
+    "nombre": "Tubo",
+    "precio": null,
+    "foto": "",
+    "category": "Multicapa",
+    "supplier": "Obramat",
+    "family": "Multicapa",
+    "type": "Tubo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "25025723",
+        "price": 3.77,
+        "description": "Tubo multicapa 16 mm barra 4 m",
+        "photo": "",
+        "attributes": {
+          "medida": "16 mm",
+          "longitud": "4 m"
+        }
+      },
+      {
+        "reference": "10285300",
+        "price": 5.4,
+        "description": "Tubo multicapa 20 mm barra 4 m",
+        "photo": "",
+        "attributes": {
+          "medida": "20 mm",
+          "longitud": "4 m"
+        }
+      },
+      {
+        "reference": "10285303",
+        "price": 7.35,
+        "description": "Tubo multicapa 25 mm barra 4 m",
+        "photo": "",
+        "attributes": {
+          "medida": "25 mm",
+          "longitud": "4 m"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-25021477-25021500-10927280",
+    "reference": null,
+    "nombre": "Abrazadera para tubo",
+    "precio": null,
+    "foto": "",
+    "category": "Abrazaderas",
+    "supplier": "Obramat",
+    "family": "Abrazaderas",
+    "type": "Abrazadera para tubo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "25021477",
+        "price": 33.8,
+        "description": "ABRAZADERA HYDRACTN DOBLE 14-15MM 100 UNIDADES",
+        "photo": "",
+        "attributes": {
+          "medida": "14-15 mm",
+          "configuracion": "100 unidades"
+        }
+      },
+      {
+        "reference": "25021500",
+        "price": 44.2,
+        "description": "ABRAZADERA HYDRACTN DOBLE 16MM 100 UNIDADES",
+        "photo": "",
+        "attributes": {
+          "medida": "16 mm",
+          "configuracion": "100 unidades"
+        }
+      },
+      {
+        "reference": "10927280",
+        "price": 1.76,
+        "description": "ABRAZADERA DOBLE M6 22MM 5 UNIDADES",
+        "photo": "",
+        "attributes": {
+          "medida": "22 mm",
+          "configuracion": "5 unidades"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-10541692-10541643-10541790-10541972",
+    "reference": null,
+    "nombre": "Accesorios cobre",
+    "precio": null,
+    "foto": "",
+    "category": "Cobre",
+    "supplier": "Obramat",
+    "family": "Cobre",
+    "type": "Entronque roscado",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "por_variante",
+    "variants": [
+      {
+        "reference": "10541692",
+        "price": 2.21,
+        "description": "ENTRONQUE ROSCA 15MMX1/2\" MACHO TIPO SAMBRA",
+        "photo": "",
+        "attributes": {
+          "medida": "15 mm",
+          "conexion": "1/2 macho",
+          "configuracion": "Macho"
+        }
+      },
+      {
+        "reference": "10541643",
+        "price": 2.99,
+        "description": "MANGUITO 18MM TIPO SAMBRA",
+        "photo": "",
+        "attributes": {
+          "medida": "18 mm"
+        }
+      },
+      {
+        "reference": "10541790",
+        "price": 1.98,
+        "description": "CODO 90º 15MM TIPO SAMBRA HEMBRA",
+        "photo": "",
+        "attributes": {
+          "medida": "15 mm",
+          "configuracion": "90º hembra"
+        }
+      },
+      {
+        "reference": "10541972",
+        "price": 6.3,
+        "description": "TE 22MM TIPO SAMBRA",
+        "photo": "",
+        "attributes": {
+          "medida": "22 mm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-50251-50252",
+    "reference": null,
+    "nombre": "T-55 Sifón botella ahorro espacio 1 seno",
+    "precio": null,
+    "foto": "imagenes/tecno_p71_t55.jpg",
+    "category": "Sifones",
+    "supplier": "Tecnoagua",
+    "family": "Sifones",
+    "type": "Botella",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": "T-55",
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "TECNOAGUA",
+    "model": "T-55",
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "50251",
+        "price": 21.3,
+        "description": "SIFÓN BOTELLA FREGADERO 1 SENO CON VÁLVULA Ø70 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p71_t55.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø70",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø70",
+          "modelo": "T-55"
+        }
+      },
+      {
+        "reference": "50252",
+        "price": 24.72,
+        "description": "SIFÓN BOTELLA FREGADERO 1 SENO CON VÁLVULA Ø115 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p71_t55.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø115",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø115",
+          "modelo": "T-55"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-50256-50257",
+    "reference": null,
+    "nombre": "T-56 Sifón botella ahorro espacio 2 senos",
+    "precio": null,
+    "foto": "imagenes/tecno_p72_t56.jpg",
+    "category": "Sifones",
+    "supplier": "Tecnoagua",
+    "family": "Sifones",
+    "type": "Botella",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": "T-56",
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "TECNOAGUA",
+    "model": "T-56",
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "50256",
+        "price": 29.4,
+        "description": "SIFÓN BOTELLA FREGADERO 2 SENOS CON DOBLE VÁLVULA Ø70 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p72_t56.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø70",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø70",
+          "modelo": "T-56"
+        }
+      },
+      {
+        "reference": "50257",
+        "price": 36.44,
+        "description": "SIFÓN BOTELLA FREGADERO 2 SENOS CON DOBLE VÁLVULA Ø115 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p72_t56.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø115",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø115",
+          "modelo": "T-56"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-50471-50472",
+    "reference": null,
+    "nombre": "T-57 Sifón curvo ahorro espacio 1 seno",
+    "precio": null,
+    "foto": "imagenes/tecno_p71_t57.jpg",
+    "category": "Sifones",
+    "supplier": "Tecnoagua",
+    "family": "Sifones",
+    "type": "Curvo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": "T-57",
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "TECNOAGUA",
+    "model": "T-57",
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "50471",
+        "price": 22.38,
+        "description": "SIFÓN CURVO FREGADERO 1 SENO CON VÁLVULA Ø70 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p71_t57.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø70",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø70",
+          "modelo": "T-57"
+        }
+      },
+      {
+        "reference": "50472",
+        "price": 25.96,
+        "description": "SIFÓN CURVO FREGADERO 1 SENO CON VÁLVULA Ø115 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p71_t57.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø115",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø115",
+          "modelo": "T-57"
+        }
+      }
+    ]
+  },
+  {
+    "id": "variant-50476-50477",
+    "reference": null,
+    "nombre": "T-58 Sifón curvo ahorro espacio 2 senos",
+    "precio": null,
+    "foto": "imagenes/tecno_p72_t58.jpg",
+    "category": "Sifones",
+    "supplier": "Tecnoagua",
+    "family": "Sifones",
+    "type": "Curvo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": "T-58",
+    "sourceUrl": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "priceDate": "2026-04-15",
+    "priceSource": "https://www.hidrotecnoagua.com/pdf/CATALOGO_HIDROTECNOAGUA.pdf",
+    "sourcePrice": null,
+    "priceUnit": "unidad por variante",
+    "priceIncludesVat": null,
+    "brand": "TECNOAGUA",
+    "model": "T-58",
+    "supplierReference": null,
+    "priceStatus": "PVP_CATALOGO_2026_ABRIL_SIN_CONFIRMAR_VIGENCIA_ACTUAL",
+    "priceMethod": "tarifa_catalogo_pvp",
+    "variants": [
+      {
+        "reference": "50476",
+        "price": 30.88,
+        "description": "SIFÓN CURVO FREGADERO 2 SENOS CON DOBLE VÁLVULA Ø70 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p72_t58.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø70",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø70",
+          "modelo": "T-58"
+        }
+      },
+      {
+        "reference": "50477",
+        "price": 38.24,
+        "description": "SIFÓN CURVO FREGADERO 2 SENOS CON DOBLE VÁLVULA Ø115 AHORRO ESPACIO 1 1/2\"",
+        "photo": "imagenes/tecno_p72_t58.jpg",
+        "attributes": {
+          "diametro_valvula": "Ø115",
+          "conexion": "1 1/2\"",
+          "configuracion": "Ø115",
+          "modelo": "T-58"
+        }
+      }
+    ]
+  },
+  {
+    "id": "5e6b9f51-ef28-4194-968d-3f5b1932ca20",
+    "reference": "40049773",
+    "nombre": "Ariston Fast RX ONM 11 L",
+    "precio": 265.2,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "11 L",
+    "connection": null,
+    "variant": "Ariston Fast RX ONM 11 L",
+    "length": null,
+    "manufacturerReference": "40049773",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 204.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Ariston Fast RX ONM 11 L",
+    "supplierReference": "40049773",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "fe695b41-b125-4e23-b377-7008e2dde240",
+    "reference": "40063801",
+    "nombre": "HTW DUO 11 L Estanco",
+    "precio": 311.48,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "11 L",
+    "connection": null,
+    "variant": "HTW DUO 11 L Estanco",
+    "length": null,
+    "manufacturerReference": "40063801",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 239.6,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "HTW DUO 11 L Estanco",
+    "supplierReference": "40063801",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "a432394a-59cb-4817-b552-ba9802a7c631",
+    "reference": "40057418",
+    "nombre": "HTW ONE 2 Atmosférico 11 L GLP",
+    "precio": 210.39,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "11 L",
+    "connection": null,
+    "variant": "HTW ONE 2 Atmosférico 11 L GLP",
+    "length": null,
+    "manufacturerReference": "40057418",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 161.84,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "HTW ONE 2 Atmosférico 11 L GLP",
+    "supplierReference": "40057418",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "96880f35-23d2-4fbb-bd1c-50b31b2583f3",
+    "reference": "7736507058",
+    "nombre": "Junkers Hydro 4200 10 L Butano",
+    "precio": 399.75,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "10 L",
+    "connection": null,
+    "variant": "Junkers Hydro 4200 10 L Butano",
+    "length": null,
+    "manufacturerReference": "7736507058",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 307.5,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Junkers Hydro 4200 10 L Butano",
+    "supplierReference": "7736507058",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "84664d99-e625-4990-a6cf-58d63ba35e41",
+    "reference": "7736507057",
+    "nombre": "Junkers Hydro 4200 10 L Gas Natural",
+    "precio": 400.4,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "10 L",
+    "connection": null,
+    "variant": "Junkers Hydro 4200 10 L Gas Natural",
+    "length": null,
+    "manufacturerReference": "7736507057",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 308.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Junkers Hydro 4200 10 L Gas Natural",
+    "supplierReference": "7736507057",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "26bf4e7e-a54c-43dd-882f-0c49c8b057d8",
+    "reference": "40075178",
+    "nombre": "Neckar WTDN11-AME31 11 L Estanco",
+    "precio": 442.0,
+    "foto": "",
+    "category": "Calentadores de gas",
+    "supplier": "Ferrocano",
+    "family": "Calentadores de gas",
+    "type": "Calentador de gas",
+    "size": "11 L",
+    "connection": null,
+    "variant": "Neckar WTDN11-AME31 11 L Estanco",
+    "length": null,
+    "manufacturerReference": "40075178",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 340.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Neckar WTDN11-AME31 11 L Estanco",
+    "supplierReference": "40075178",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "a0a199c9-f69e-4e71-b751-524b60745ebd",
+    "reference": "40051573",
+    "nombre": "MONOMANDO BAÑO FERCOM CROMO",
+    "precio": 34.59,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando baño",
+    "size": null,
+    "connection": null,
+    "variant": "FERCOM CROMO",
+    "length": null,
+    "manufacturerReference": "40051573",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 26.61,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "FERCOM",
+    "model": "MONOMANDO BAÑO FERCOM CROMO",
+    "supplierReference": "40051573",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "64fed3b8-efd7-4159-9950-da2bfdb721bc",
+    "reference": "17417006",
+    "nombre": "Monomando baño/ducha TRES",
+    "precio": 48.04,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando baño/ducha",
+    "size": null,
+    "connection": null,
+    "variant": "TRES",
+    "length": null,
+    "manufacturerReference": "17417006",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 36.95,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "TRES",
+    "model": "Monomando baño/ducha TRES",
+    "supplierReference": "17417006",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "504f5e62-467a-47eb-b339-326994bd3218",
+    "reference": "40051576",
+    "nombre": "MONOMANDO BIDE FERCOM CROMO",
+    "precio": 25.49,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando bidé",
+    "size": null,
+    "connection": null,
+    "variant": "FERCOM CROMO",
+    "length": null,
+    "manufacturerReference": "40051576",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 19.61,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "FERCOM",
+    "model": "MONOMANDO BIDE FERCOM CROMO",
+    "supplierReference": "40051576",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "1b30840c-5f43-4b74-b4b6-d1e42a78dfd6",
+    "reference": "17412006",
+    "nombre": "Monomando bidé TRES",
+    "precio": 29.84,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando bidé",
+    "size": null,
+    "connection": null,
+    "variant": "TRES",
+    "length": null,
+    "manufacturerReference": "17412006",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 22.95,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "TRES",
+    "model": "Monomando bidé TRES",
+    "supplierReference": "17412006",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "08bdaeb4-a5c3-4d08-b100-0548118a8745",
+    "reference": "40051574",
+    "nombre": "MONOMANDO DUCHA FERCOM CROMO",
+    "precio": 29.81,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando ducha",
+    "size": null,
+    "connection": null,
+    "variant": "FERCOM CROMO",
+    "length": null,
+    "manufacturerReference": "40051574",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 22.93,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "FERCOM",
+    "model": "MONOMANDO DUCHA FERCOM CROMO",
+    "supplierReference": "40051574",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "4a28e0dd-02ec-41f3-a319-a3cba9adcb4e",
+    "reference": "17416706",
+    "nombre": "Monomando ducha TRES",
+    "precio": 40.24,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando ducha",
+    "size": null,
+    "connection": null,
+    "variant": "TRES",
+    "length": null,
+    "manufacturerReference": "17416706",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 30.95,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "TRES",
+    "model": "Monomando ducha TRES",
+    "supplierReference": "17416706",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "95d24e53-a4b2-4ae0-b477-f698c355ba06",
+    "reference": "40051577",
+    "nombre": "MONOMANDO FREGADOR CAÑO CISNE FERCOM CROMO",
+    "precio": 30.04,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando fregadero",
+    "size": null,
+    "connection": null,
+    "variant": "FERCOM CROMO",
+    "length": null,
+    "manufacturerReference": "40051577",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 23.11,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "FERCOM",
+    "model": "MONOMANDO FREGADOR CAÑO CISNE FERCOM CROMO",
+    "supplierReference": "40051577",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "1007e22b-9a19-468c-846b-381c911f6997",
+    "reference": "21544101",
+    "nombre": "Monomando fregadero TRES",
+    "precio": 69.94,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando fregadero",
+    "size": null,
+    "connection": null,
+    "variant": "TRES",
+    "length": null,
+    "manufacturerReference": "21544101",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 53.8,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "TRES",
+    "model": "Monomando fregadero TRES",
+    "supplierReference": "21544101",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "f2297ca0-0514-4de9-9b34-bdb70c87476a",
+    "reference": "40051575",
+    "nombre": "MONOMANDO LAVABO FERCOM CROMO",
+    "precio": 24.54,
+    "foto": "",
+    "category": "Grifería",
+    "supplier": "Ferrocano",
+    "family": "Grifería",
+    "type": "Monomando lavabo",
+    "size": null,
+    "connection": null,
+    "variant": "FERCOM CROMO",
+    "length": null,
+    "manufacturerReference": "40051575",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 18.88,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "FERCOM",
+    "model": "MONOMANDO LAVABO FERCOM CROMO",
+    "supplierReference": "40051575",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": []
+  },
+  {
+    "id": "230af0ee-a15d-4a1e-acb8-bd6bbfd4244b",
+    "reference": "ELIA GALA",
+    "nombre": "Gala Elia completo cisterna alta",
+    "precio": 91.51,
+    "foto": "",
+    "category": "Sanitarios Gala",
+    "supplier": "Ferrocano",
+    "family": "Sanitarios Gala",
+    "type": "Inodoro completo",
+    "size": null,
+    "connection": null,
+    "variant": "Elia completo cisterna alta",
+    "length": null,
+    "manufacturerReference": "ELIA GALA",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 70.39,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Gala Elia completo cisterna alta",
+    "supplierReference": "ELIA GALA",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "004cedc3-4ef4-4586-903b-a02dfefe6ae2",
+    "reference": "LIZZ GALA",
+    "nombre": "Gala Lizz completo",
+    "precio": 178.17,
+    "foto": "",
+    "category": "Sanitarios Gala",
+    "supplier": "Ferrocano",
+    "family": "Sanitarios Gala",
+    "type": "Inodoro completo",
+    "size": null,
+    "connection": null,
+    "variant": "Lizz completo",
+    "length": null,
+    "manufacturerReference": "LIZZ GALA",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 137.05,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Gala Lizz completo",
+    "supplierReference": "LIZZ GALA",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "509a10a5-aa72-4225-ad17-9b91d628a70c",
+    "reference": "09172",
+    "nombre": "Gala Coral suspendido",
+    "precio": 368.55,
+    "foto": "",
+    "category": "Sanitarios Gala",
+    "supplier": "Ferrocano",
+    "family": "Sanitarios Gala",
+    "type": "Inodoro suspendido",
+    "size": null,
+    "connection": null,
+    "variant": "Coral suspendido",
+    "length": null,
+    "manufacturerReference": "09172",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 283.5,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Gala",
+    "model": "Gala Coral suspendido",
+    "supplierReference": "09172",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "0cfcdcf9-8e4a-4133-9c0d-5605e085480b",
+    "reference": "40037279",
+    "nombre": "Simat 100 litros",
+    "precio": 180.7,
+    "foto": "",
+    "category": "Termos eléctricos",
+    "supplier": "Ferrocano",
+    "family": "Termos eléctricos",
+    "type": "Termo eléctrico",
+    "size": "100 L",
+    "connection": null,
+    "variant": "Simat",
+    "length": null,
+    "manufacturerReference": "40037279",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 139.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Simat",
+    "model": "Simat 100 litros",
+    "supplierReference": "40037279",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "35226e82-decb-4505-b257-e19112236646",
+    "reference": "40037205",
+    "nombre": "Simat 50 litros",
+    "precio": 136.5,
+    "foto": "",
+    "category": "Termos eléctricos",
+    "supplier": "Ferrocano",
+    "family": "Termos eléctricos",
+    "type": "Termo eléctrico",
+    "size": "50 L",
+    "connection": null,
+    "variant": "Simat",
+    "length": null,
+    "manufacturerReference": "40037205",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 105.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Simat",
+    "model": "Simat 50 litros",
+    "supplierReference": "40037205",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "0b7496f3-ad2f-4776-a071-19d506a99590",
+    "reference": "40037430",
+    "nombre": "Simat 80 litros",
+    "precio": 167.7,
+    "foto": "",
+    "category": "Termos eléctricos",
+    "supplier": "Ferrocano",
+    "family": "Termos eléctricos",
+    "type": "Termo eléctrico",
+    "size": "80 L",
+    "connection": null,
+    "variant": "Simat",
+    "length": null,
+    "manufacturerReference": "40037430",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 129.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": "Simat",
+    "model": "Simat 80 litros",
+    "supplierReference": "40037430",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Ferrocano",
+    "variants": []
+  },
+  {
+    "id": "f4df5d13-c582-4733-b43f-1d748eacfd1a",
+    "reference": "10209311",
+    "nombre": "ALARGADERA 1 BOCA 1 1/2\" HEMBRA",
+    "precio": 1.56,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Alargadera",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"",
+    "variant": "1 boca",
+    "length": null,
+    "manufacturerReference": "10209311",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.2,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10209311",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "4c9af507-c072-4dfa-841a-befb7b529248",
+    "reference": "10551184",
+    "nombre": "ALARGADERA 2 BOCAS 1 1/2\" HEMBRA",
+    "precio": 1.69,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Alargadera",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"",
+    "variant": "2 bocas",
+    "length": null,
+    "manufacturerReference": "10551184",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.3,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10551184",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "4de4cbbe-021e-454a-95df-9f36a4abcb47",
+    "reference": "10108014",
+    "nombre": "CODO SIFÓN CON TUERCA Y JUNTA 1 1/2\" HEMBRA-HEMBRA",
+    "precio": 2.02,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Codo de sifón",
+    "size": "1 1/2\"",
+    "connection": "Hembra-Hembra 1 1/2\"",
+    "variant": "87°",
+    "length": null,
+    "manufacturerReference": "10108014",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.55,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10108014",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "43f9c644-9f1f-499f-baf0-a40f5132c251",
+    "reference": "10108021",
+    "nombre": "CODO SIFÓN MIXTO CON TUERCA Y JUNTA 1 1/2\" MACHO-HEMBRA",
+    "precio": 1.3,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Codo de sifón",
+    "size": "1 1/2\"",
+    "connection": "Macho-Hembra 1 1/2\"",
+    "variant": "87°",
+    "length": null,
+    "manufacturerReference": "10108021",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.0,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10108021",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "7018bf75-a386-4337-b3a2-b039a9dca9ee",
+    "reference": "10108063",
+    "nombre": "ENLACE SIFÓN TUERCA LOCA 1 1/2\"-40MM",
+    "precio": 1.56,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Enlace de sifón",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"-40 mm",
+    "variant": "Tuerca loca",
+    "length": null,
+    "manufacturerReference": "10108063",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.2,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10108063",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "e38e02c4-7aa2-491f-8bdd-c3f7224ecd78",
+    "reference": "10108042",
+    "nombre": "MANGUITO SIFÓN 1 1/2\" HEMBRA-HEMBRA",
+    "precio": 1.82,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Manguito de sifón",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"",
+    "variant": "Con toma de lavadora",
+    "length": null,
+    "manufacturerReference": "10108042",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.4,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10108042",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "27858425-f287-4dd9-9890-e802bd1c96c8",
+    "reference": "25045306",
+    "nombre": "RACOR SIFÓN GOMA 1 1/2\"",
+    "precio": 1.95,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Racor de sifón",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"",
+    "variant": "Junta de goma",
+    "length": null,
+    "manufacturerReference": "25045306",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 1.5,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "25045306",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "f1555cd2-df1c-4f48-835b-ec74cdba58db",
+    "reference": "10107552",
+    "nombre": "RACOR TOMA ELECTRODOMÉSTICOS 1 1/2\"",
+    "precio": 2.67,
+    "foto": "",
+    "category": "Piezas de sifón",
+    "supplier": "Obramat",
+    "family": "Piezas de sifón",
+    "type": "Racor de sifón",
+    "size": "1 1/2\"",
+    "connection": "1 1/2\"",
+    "variant": "Toma electrodomésticos",
+    "length": null,
+    "manufacturerReference": "10107552",
+    "sourceUrl": null,
+    "priceDate": null,
+    "priceSource": null,
+    "sourcePrice": 2.05,
+    "priceUnit": "unidad",
+    "priceIncludesVat": null,
+    "brand": null,
+    "model": null,
+    "supplierReference": "10107552",
+    "priceStatus": "PRECIO_VERIFICADO",
+    "priceMethod": "Obramat x1.30",
+    "variants": []
+  },
+  {
+    "id": "plasson-pushfit-codo-grifo",
+    "reference": null,
+    "nombre": "Codo grifo Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-codo-grifo.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "Codo grifo",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "40067781",
+        "price": 5.69,
+        "sourcePrice": 4.38,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6290-codo-grifo-fitting-push-fit-plasson-20-1-2.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6290-codo-grifo-fitting-push-fit-plasson-20-1-2.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo grifo Push-Fit Plasson 20 mm x 1/2\"",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm",
+          "Pulgadas": "1/2\""
+        }
+      },
+      {
+        "reference": "40067782",
+        "price": 6.16,
+        "sourcePrice": 4.74,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6291-codo-grifo-fitting-push-fit-plasson-25-3-4.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6291-codo-grifo-fitting-push-fit-plasson-25-3-4.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo grifo Push-Fit Plasson 25 mm x 3/4\"",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm",
+          "Pulgadas": "3/4\""
+        }
+      }
+    ]
+  },
+  {
+    "id": "plasson-pushfit-manguito",
+    "reference": null,
+    "nombre": "Manguito Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-manguito.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "Manguito",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "40067738",
+        "price": 3.33,
+        "sourcePrice": 2.56,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6301-manguito-fitting-push-fit-plasson-20mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6301-manguito-fitting-push-fit-plasson-20mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Manguito Push-Fit Plasson 20 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm"
+        }
+      },
+      {
+        "reference": "40067739",
+        "price": 4.42,
+        "sourcePrice": 3.4,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6302-manguito-fitting-push-fit-plasson-25mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6302-manguito-fitting-push-fit-plasson-25mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Manguito Push-Fit Plasson 25 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm"
+        }
+      },
+      {
+        "reference": "40067740",
+        "price": 5.49,
+        "sourcePrice": 4.22,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6303-manguito-fitting-push-fit-plasson-32mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6303-manguito-fitting-push-fit-plasson-32mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Manguito Push-Fit Plasson 32 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm"
+        }
+      },
+      {
+        "reference": "40067741",
+        "price": 11.02,
+        "sourcePrice": 8.48,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6304-manguito-fitting-push-fit-plasson-40mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6304-manguito-fitting-push-fit-plasson-40mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Manguito Push-Fit Plasson 40 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "40 mm"
+        }
+      },
+      {
+        "reference": "40067742",
+        "price": 12.74,
+        "sourcePrice": 9.8,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6305-manguito-fitting-push-fit-plasson-50mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6305-manguito-fitting-push-fit-plasson-50mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Manguito Push-Fit Plasson 50 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "50 mm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "plasson-pushfit-t",
+    "reference": null,
+    "nombre": "T Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-t.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "T",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "40067765",
+        "price": 6.18,
+        "sourcePrice": 4.75,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6372-t-fitting-push-fit-plasson-20mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6372-t-fitting-push-fit-plasson-20mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T Push-Fit Plasson 20 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm"
+        }
+      },
+      {
+        "reference": "40067766",
+        "price": 7.97,
+        "sourcePrice": 6.13,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6373-t-fitting-push-fit-plasson-25mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6373-t-fitting-push-fit-plasson-25mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T Push-Fit Plasson 25 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm"
+        }
+      },
+      {
+        "reference": "40067767",
+        "price": 10.15,
+        "sourcePrice": 7.81,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6374-t-fitting-push-fit-plasson-32mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6374-t-fitting-push-fit-plasson-32mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T Push-Fit Plasson 32 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm"
+        }
+      },
+      {
+        "reference": "40067768",
+        "price": 16.94,
+        "sourcePrice": 13.03,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6375-t-fitting-push-fit-plasson-40mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6375-t-fitting-push-fit-plasson-40mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T Push-Fit Plasson 40 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "40 mm"
+        }
+      },
+      {
+        "reference": "40067769",
+        "price": 21.54,
+        "sourcePrice": 16.57,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/accesorio-fitting/6376-t-fitting-push-fit-plasson-50mm.html",
+        "sourceUrl": "https://ferrocanosuministros.es/accesorio-fitting/6376-t-fitting-push-fit-plasson-50mm.html",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T Push-Fit Plasson 50 mm",
+        "photo": null,
+        "attributes": {
+          "Medida": "50 mm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ferrocano-latiguillo-standard",
+    "reference": null,
+    "nombre": "Latiguillo flexible inox",
+    "precio": null,
+    "foto": "imagenes/ferrocano-latiguillo-inox.jpg",
+    "category": "Latiguillos",
+    "supplier": "Ferrocano",
+    "family": "Latiguillos",
+    "type": "Conexión flexible inox",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/186-conexiones-sanitarias",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/186-conexiones-sanitarias",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "FLEXITUB",
+    "model": "Latiguillo flexible inox",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "40025666",
+        "price": 1.43,
+        "sourcePrice": 1.1,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1525-conexion-flexible-inox-m-h-38.html#/678-longitud-10cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1525-conexion-flexible-inox-m-h-38.html#/678-longitud-10cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 10 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "10 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00015841",
+        "price": 1.62,
+        "sourcePrice": 1.25,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1527-conexion-flexible-inox-m-h-38.html#/680-longitud-20cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1527-conexion-flexible-inox-m-h-38.html#/680-longitud-20cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 20 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "20 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00010141",
+        "price": 1.73,
+        "sourcePrice": 1.33,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1529-conexion-flexible-inox-m-h-38.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1529-conexion-flexible-inox-m-h-38.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 30 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "30 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "40027426",
+        "price": 2.14,
+        "sourcePrice": 1.65,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1531-conexion-flexible-inox-m-h-38.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1531-conexion-flexible-inox-m-h-38.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 40 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "40 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "40025667",
+        "price": 2.14,
+        "sourcePrice": 1.65,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1533-conexion-flexible-inox-m-h-38.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2102-1533-conexion-flexible-inox-m-h-38.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 50 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "50 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "40025670",
+        "price": 1.43,
+        "sourcePrice": 1.1,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1514-conexion-flexible-inox-h-h-38.html#/678-longitud-10cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1514-conexion-flexible-inox-h-h-38.html#/678-longitud-10cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 10 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "10 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00015586",
+        "price": 1.62,
+        "sourcePrice": 1.25,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1516-conexion-flexible-inox-h-h-38.html#/680-longitud-20cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1516-conexion-flexible-inox-h-h-38.html#/680-longitud-20cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 20 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "20 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00006566",
+        "price": 1.73,
+        "sourcePrice": 1.33,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1518-conexion-flexible-inox-h-h-38.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1518-conexion-flexible-inox-h-h-38.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 30 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "30 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00015588",
+        "price": 2.08,
+        "sourcePrice": 1.6,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1520-conexion-flexible-inox-h-h-38.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1520-conexion-flexible-inox-h-h-38.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 40 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "40 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00012922",
+        "price": 2.14,
+        "sourcePrice": 1.65,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1522-conexion-flexible-inox-h-h-38.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2101-1522-conexion-flexible-inox-h-h-38.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/8\" x 3/8\", 50 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/8\"",
+          "Longitud": "50 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "40054712",
+        "price": 1.69,
+        "sourcePrice": 1.3,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1544-conexion-flexible-inox-m-h-12.html#/678-longitud-10cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1544-conexion-flexible-inox-m-h-12.html#/678-longitud-10cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 10 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "10 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00011912",
+        "price": 1.88,
+        "sourcePrice": 1.45,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1545-conexion-flexible-inox-m-h-12.html#/680-longitud-20cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1545-conexion-flexible-inox-m-h-12.html#/680-longitud-20cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 20 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "20 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00010095",
+        "price": 1.95,
+        "sourcePrice": 1.5,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1547-conexion-flexible-inox-m-h-12.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1547-conexion-flexible-inox-m-h-12.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 30 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "30 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00012278",
+        "price": 2.18,
+        "sourcePrice": 1.68,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1549-conexion-flexible-inox-m-h-12.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1549-conexion-flexible-inox-m-h-12.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 40 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "40 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00006406",
+        "price": 2.28,
+        "sourcePrice": 1.75,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1551-conexion-flexible-inox-m-h-12.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2104-1551-conexion-flexible-inox-m-h-12.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 50 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "50 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "40063500",
+        "price": 1.88,
+        "sourcePrice": 1.45,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1535-conexion-flexible-inox-h-h-12.html#/680-longitud-20cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1535-conexion-flexible-inox-h-h-12.html#/680-longitud-20cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 20 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "20 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00009169",
+        "price": 2.02,
+        "sourcePrice": 1.55,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1537-conexion-flexible-inox-h-h-12.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1537-conexion-flexible-inox-h-h-12.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 30 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "30 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "40022324",
+        "price": 2.14,
+        "sourcePrice": 1.65,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1539-conexion-flexible-inox-h-h-12.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1539-conexion-flexible-inox-h-h-12.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 40 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "40 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00015591",
+        "price": 2.28,
+        "sourcePrice": 1.75,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1541-conexion-flexible-inox-h-h-12.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2103-1541-conexion-flexible-inox-h-h-12.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 1/2\" x 1/2\", 50 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "1/2\"",
+          "Longitud": "50 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ferrocano-latiguillo-giant",
+    "reference": null,
+    "nombre": "Latiguillo flexible inox gigante",
+    "precio": null,
+    "foto": "imagenes/ferrocano-latiguillo-inox.jpg",
+    "category": "Latiguillos",
+    "supplier": "Ferrocano",
+    "family": "Latiguillos",
+    "type": "Conexión flexible inox gigante",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/186-conexiones-sanitarias",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/186-conexiones-sanitarias",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "FLEXITUB",
+    "model": "Latiguillo flexible inox gigante",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "00006700",
+        "price": 4.15,
+        "sourcePrice": 3.19,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1588-conexion-flexible-inox-gigante-m-h-34.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1588-conexion-flexible-inox-gigante-m-h-34.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 30 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "30 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00015597",
+        "price": 4.55,
+        "sourcePrice": 3.5,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1589-conexion-flexible-inox-gigante-m-h-34.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1589-conexion-flexible-inox-gigante-m-h-34.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 40 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "40 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00015596",
+        "price": 5.19,
+        "sourcePrice": 3.99,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1590-conexion-flexible-inox-gigante-m-h-34.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2113-1590-conexion-flexible-inox-gigante-m-h-34.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 50 cm, Macho-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "50 cm",
+          "Conexión": "Macho-Hembra"
+        }
+      },
+      {
+        "reference": "00012803",
+        "price": 4.1,
+        "sourcePrice": 3.15,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1583-conexion-flexible-inox-gigante-h-h-34.html#/682-longitud-30cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1583-conexion-flexible-inox-gigante-h-h-34.html#/682-longitud-30cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 30 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "30 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00012830",
+        "price": 4.62,
+        "sourcePrice": 3.55,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1585-conexion-flexible-inox-gigante-h-h-34.html#/684-longitud-40cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1585-conexion-flexible-inox-gigante-h-h-34.html#/684-longitud-40cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 40 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "40 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      },
+      {
+        "reference": "00015598",
+        "price": 5.14,
+        "sourcePrice": 3.95,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1586-conexion-flexible-inox-gigante-h-h-34.html#/686-longitud-50cm",
+        "sourceUrl": "https://ferrocanosuministros.es/conexiones-sanitarias/2112-1586-conexion-flexible-inox-gigante-h-h-34.html#/686-longitud-50cm",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Latiguillo inox 3/4\" x 3/4\", 50 cm, Hembra-Hembra",
+        "photo": null,
+        "attributes": {
+          "Pulgadas": "3/4\"",
+          "Longitud": "50 cm",
+          "Conexión": "Hembra-Hembra"
+        }
+      }
+    ]
+  },
+  {
+    "id": "plasson-pushfit-codo-roscado",
+    "reference": null,
+    "nombre": "Codo roscado Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-codo-rosca-hembra.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "Codo roscado",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": "40067783",
+        "price": 2.82,
+        "sourcePrice": 2.17,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo roscado Push-Fit Plasson 20 mm x 1/2 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm",
+          "Pulgadas": "1/2\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": "40067784",
+        "price": 3.64,
+        "sourcePrice": 2.8,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo roscado Push-Fit Plasson 25 mm x 3/4 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm",
+          "Pulgadas": "3/4\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": "40067227",
+        "price": 4.91,
+        "sourcePrice": 3.78,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo roscado Push-Fit Plasson 32 mm x 1 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm",
+          "Pulgadas": "1\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": "40067786",
+        "price": 13.91,
+        "sourcePrice": 10.7,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Codo roscado Push-Fit Plasson 50 mm x 1 1/2 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "50 mm",
+          "Pulgadas": "1 1/2\"",
+          "Conexión": "Hembra"
+        }
+      }
+    ]
+  },
+  {
+    "id": "plasson-pushfit-enlace-roscado",
+    "reference": null,
+    "nombre": "Enlace roscado Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-enlace-roscado.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "Enlace roscado",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": null,
+        "price": 2.28,
+        "sourcePrice": 1.75,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 20 mm x 1/2 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm",
+          "Pulgadas": "1/2\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": null,
+        "price": 2.56,
+        "sourcePrice": 1.97,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 25 mm x 3/4 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm",
+          "Pulgadas": "3/4\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": null,
+        "price": 3.42,
+        "sourcePrice": 2.63,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 32 mm x 1 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm",
+          "Pulgadas": "1\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": null,
+        "price": 11.15,
+        "sourcePrice": 8.58,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 50 mm x 1 1/2 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "50 mm",
+          "Pulgadas": "1 1/2\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": "40067756",
+        "price": 2.28,
+        "sourcePrice": 1.75,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 20 mm x 1/2 Macho",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm",
+          "Pulgadas": "1/2\"",
+          "Conexión": "Macho"
+        }
+      },
+      {
+        "reference": null,
+        "price": 2.56,
+        "sourcePrice": 1.97,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 25 mm x 3/4 Macho",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm",
+          "Pulgadas": "3/4\"",
+          "Conexión": "Macho"
+        }
+      },
+      {
+        "reference": null,
+        "price": 3.03,
+        "sourcePrice": 2.33,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 32 mm x 1 Macho",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm",
+          "Pulgadas": "1\"",
+          "Conexión": "Macho"
+        }
+      },
+      {
+        "reference": "40067356",
+        "price": 9.19,
+        "sourcePrice": 7.07,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "Enlace roscado Push-Fit Plasson 50 mm x 1 1/2 Macho",
+        "photo": null,
+        "attributes": {
+          "Medida": "50 mm",
+          "Pulgadas": "1 1/2\"",
+          "Conexión": "Macho"
+        }
+      }
+    ]
+  },
+  {
+    "id": "plasson-pushfit-t-roscada",
+    "reference": null,
+    "nombre": "T roscada Push-Fit Plasson",
+    "precio": null,
+    "foto": "imagenes/plasson-pushfit-t-rosca-hembra.jpg",
+    "category": "FITTING PUSH-FIT PLASSON",
+    "supplier": "Ferrocano",
+    "family": "FITTING PUSH-FIT PLASSON",
+    "type": "T roscada",
+    "size": null,
+    "connection": null,
+    "variant": null,
+    "length": null,
+    "manufacturerReference": null,
+    "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+    "priceDate": "2026-10-06",
+    "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+    "sourcePrice": null,
+    "priceUnit": "unidad",
+    "priceIncludesVat": true,
+    "brand": "Plasson",
+    "model": "Push-Fit",
+    "supplierReference": null,
+    "priceStatus": "VARIANTES",
+    "priceMethod": "Ferrocano x1.30",
+    "variants": [
+      {
+        "reference": null,
+        "price": 4.24,
+        "sourcePrice": 3.26,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T roscada Push-Fit Plasson 20 mm x 1/2 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "20 mm",
+          "Pulgadas": "1/2\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": "40067772",
+        "price": 5.86,
+        "sourcePrice": 4.51,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T roscada Push-Fit Plasson 25 mm x 3/4 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "25 mm",
+          "Pulgadas": "3/4\"",
+          "Conexión": "Hembra"
+        }
+      },
+      {
+        "reference": null,
+        "price": 7.32,
+        "sourcePrice": 5.63,
+        "priceDate": "2026-10-06",
+        "priceSource": "https://ferrocanosuministros.es/brand/361-plasson",
+        "sourceUrl": "https://ferrocanosuministros.es/brand/361-plasson",
+        "priceUnit": "unidad",
+        "priceIncludesVat": true,
+        "priceMethod": "Ferrocano x1.30",
+        "description": "T roscada Push-Fit Plasson 32 mm x 1 Hembra",
+        "photo": null,
+        "attributes": {
+          "Medida": "32 mm",
+          "Pulgadas": "1\"",
+          "Conexión": "Hembra"
+        }
+      }
+    ]
+  }
+]

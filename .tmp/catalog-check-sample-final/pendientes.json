@@ -1,0 +1,14 @@
+[
+  {
+    "supplier": "Obramat",
+    "supplierReference": "10509961",
+    "productId": "obramat-excentrica-10509961",
+    "targetKind": "product",
+    "reference": "10509961",
+    "productName": "Juego excéntricas para grifo de cocina (latón)",
+    "sourceUrl": "https://www.obramat.es/productos/juego-excentricas-para-grifo-de-cocina-10509961.html",
+    "status": "pending",
+    "checkedAt": "2026-10-07T16:27:11.807Z",
+    "reason": "La ficha respondió con HTTP 403."
+  }
+]
