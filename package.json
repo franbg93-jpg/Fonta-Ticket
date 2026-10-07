@@ -1,0 +1,7 @@
+{
+  "name": "fontaticket-workspace",
+  "private": true,
+  "scripts": {
+    "build": "cd FontaTicket && npm install && npm run build"
+  }
+}
